@@ -35013,7 +35013,7 @@ if(r.e)o.push(B.zt)
 else o.push(A.HT('"'+r.d+'"',q,B.O0,B.fR))
 o.push(B.wL)
 s=r.e?q:r.gZC()
-o.push(A.agx(B.Ph,s,A.atG(q,q,q,q,q,q,q,q,q,q,q,q,B.Bj,q,q,q,q,q,B.O4,q)))
+o.push(A.agx(B.Pn,s,A.atG(q,q,q,q,q,q,q,q,q,q,q,q,B.Bj,q,q,q,q,q,B.O4,q)))
 o.push(B.wK)
 o.push(A.a5C(B.Pi,r.ga5K(),q))
 return new A.wI(A.HE(B.e9,A.c([A.tm(new A.cq(B.Bi,A.Sm(o,B.bD,B.iM,B.iN),q),q,q)],p),B.a3,B.fQ),q)}}
@@ -35034,7 +35034,7 @@ $0(){this.a.e=!1},
 $S:0}
 A.abb.prototype={
 $1(a){var s=null,r=this.a,q=t.g
-return new A.od(B.Pj,A.awW(new A.F3(A.c([B.Pl,B.wM,A.alV(u.f,B.jA),B.wJ,A.agx(B.Pm,new A.ab8(r,a),s),B.wK,B.Pn,B.wM,A.alV(u.h,B.jA),B.wJ,A.agx(B.Pq,new A.ab9(r,a),s)],q),s)),A.c([A.a5C(B.Po,new A.aba(a),s)],q),B.kz,s)},
+return new A.od(B.Ph,A.awW(new A.F3(A.c([B.Pk,B.wM,A.alV(u.f,B.jA),B.wJ,A.agx(B.Pl,new A.ab8(r,a),s),B.wK,B.Pm,B.wM,A.alV(u.h,B.jA),B.wJ,A.agx(B.Pq,new A.ab9(r,a),s)],q),s)),A.c([A.a5C(B.Po,new A.aba(a),s)],q),B.kz,s)},
 $S:403}
 A.ab8.prototype={
 $0(){A.tD(new A.lT(u.f))
@@ -76664,8 +76664,8 @@ B.K7=new A.q0(null,null,null,null,null,null,null,null,null,null,null,null,null,n
 B.Pr=new A.e5("BTC Address Copied!",null,null,null,null,null)
 B.lc=new A.aE(4e6)
 B.K8=new A.kL(B.Pr,null,null,null,null,null,null,null,null,null,null,null,null,B.lc,null,null,null,B.a3,null)
-B.Pk=new A.e5("XMR Address Copied!",null,null,null,null,null)
-B.K9=new A.kL(B.Pk,null,null,null,null,null,null,null,null,null,null,null,null,B.lc,null,null,null,B.a3,null)
+B.Pj=new A.e5("XMR Address Copied!",null,null,null,null,null)
+B.K9=new A.kL(B.Pj,null,null,null,null,null,null,null,null,null,null,null,null,B.lc,null,null,null,B.a3,null)
 B.wO=new A.xc(0,"permissive")
 B.Ka=new A.xc(1,"normal")
 B.Kb=new A.xc(2,"forced")
@@ -77020,14 +77020,14 @@ B.O7=new A.k(!0,B.z,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Op=new A.k(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Ln=new A.k(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.Pg=new A.d7(B.N3,B.M6,B.N4,B.NE,B.LJ,B.LQ,B.Mq,B.Nr,B.ME,B.Ob,B.Ld,B.Ly,B.O7,B.Op,B.Ln)
-B.Ph=new A.e5("Seek Wisdom2",null,null,null,null,null)
+B.Ph=new A.e5("Leave an Offering",null,B.jA,null,null,null)
 B.N6=new A.k(!0,B.x,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.jv,null,null,null,null,null,null,null,null)
-B.Pi=new A.e5("Leave an Offering",null,B.N6,null,null,null)
-B.Pj=new A.e5("Leave an Offering",null,B.jA,null,null,null)
+B.Pi=new A.e5("PLEASE: Leave an Offering",null,B.N6,null,null,null)
 B.x1=new A.k(!0,B.x,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Pl=new A.e5("Bitcoin (BTC):",null,B.x1,null,null,null)
-B.Pm=new A.e5("Copy BTC Address",null,null,null,null,null)
-B.Pn=new A.e5("Monero (XMR):",null,B.x1,null,null,null)
+B.Pk=new A.e5("Bitcoin (BTC):",null,B.x1,null,null,null)
+B.Pl=new A.e5("Copy BTC Address",null,null,null,null,null)
+B.Pm=new A.e5("Monero (XMR):",null,B.x1,null,null,null)
+B.Pn=new A.e5("Seek Wisdom",null,null,null,null,null)
 B.zU=new A.C(1,0.5098039215686274,0.6941176470588235,1,B.h)
 B.zR=new A.C(1,0.26666666666666666,0.5411764705882353,1,B.h)
 B.zF=new A.C(1,0.1607843137254902,0.4745098039215686,1,B.h)
